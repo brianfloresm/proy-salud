@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/proy-salud/static/css/main.464c33f9.css",
+    "main.js": "/proy-salud/static/js/main.68e7a8ed.js",
+    "static/js/787.0dc03e3f.chunk.js": "/proy-salud/static/js/787.0dc03e3f.chunk.js",
+    "static/media/nosotros3.jpg": "/proy-salud/static/media/nosotros3.227220069ddd3177d8b2.jpg",
+    "static/media/gal3.jpg": "/proy-salud/static/media/gal3.537e7346e0e95d4f352c.jpg",
+    "static/media/gal2.jpg": "/proy-salud/static/media/gal2.ae96322b084c7a9f5c33.jpg",
+    "static/media/gal4.jpg": "/proy-salud/static/media/gal4.3e146bc45a9e50c82cd9.jpg",
+    "static/media/port2.jpg": "/proy-salud/static/media/port2.69a206812591a062bc19.jpg",
+    "static/media/gal6.jpg": "/proy-salud/static/media/gal6.9b3310f4eeb8df0d9219.jpg",
+    "static/media/img-serv1.jpg": "/proy-salud/static/media/img-serv1.f56874355a2e42632979.jpg",
+    "static/media/gal5.avif": "/proy-salud/static/media/gal5.77d19a2fe29eaa8138a0.avif",
+    "static/media/nosotros1.avif": "/proy-salud/static/media/nosotros1.480ead562c3b336d73c3.avif",
+    "static/media/img-serv2.jpeg": "/proy-salud/static/media/img-serv2.be6839dc31c7f0fb9ebf.jpeg",
+    "static/media/CentraNo2-Bold.ttf": "/proy-salud/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/proy-salud/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/proy-salud/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/nosotros2.jpg": "/proy-salud/static/media/nosotros2.cd3a612c40dd89fcd6b6.jpg",
+    "static/media/nosotros4.avif": "/proy-salud/static/media/nosotros4.8d24c41b5db0dd9e0872.avif",
+    "static/media/villa-maria.jpg": "/proy-salud/static/media/villa-maria.33a620d589f6224a905c.jpg",
+    "static/media/nav-icon3.svg": "/proy-salud/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon-yotube.svg": "/proy-salud/static/media/nav-icon-yotube.0d0feca3723370c4d5ce957e2b798afc.svg",
+    "index.html": "/proy-salud/index.html",
+    "static/media/x.svg": "/proy-salud/static/media/x.094368ea3d1ef40ef4c6de080572ecbd.svg",
+    "static/media/nav-icon2.svg": "/proy-salud/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.464c33f9.css.map": "/proy-salud/static/css/main.464c33f9.css.map",
+    "main.68e7a8ed.js.map": "/proy-salud/static/js/main.68e7a8ed.js.map",
+    "787.0dc03e3f.chunk.js.map": "/proy-salud/static/js/787.0dc03e3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464c33f9.css",
+    "static/js/main.68e7a8ed.js"
+  ]
+}
